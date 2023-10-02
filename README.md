@@ -1,6 +1,6 @@
 # Projeto `organizador-musicas-v1`
 
-Um projeto para coletar arquivos de áudio.
+Um projeto para tratar uma coleção de arquivos de áudio.
 
 Autores: David Barnes e Michael Kölling
 
